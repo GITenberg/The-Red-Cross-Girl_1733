@@ -1,0 +1,35 @@
+_repo: The-Red-Cross-Girl_1733
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Morris, Gouverneur
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1721'
+    url: http://www.gutenberg.org/2009/agents/1721
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The Red Cross girl -- The Grand Cross of the Crescent -- The invasion
+  of England -- Blood will tell -- The sailorman -- The mind reader -- The naked man
+  -- The boy who cried wolf -- The card-sharp.
+title: The Red Cross Girl
+url: http://www.gutenberg.org/ebooks/1733
