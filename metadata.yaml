@@ -1,5 +1,5 @@
 _repo: The-Red-Cross-Girl_1733
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Morris, Gouverneur
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '1721'
     url: http://www.gutenberg.org/2009/agents/1721
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1733#The-Red-Cross-Girl
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
